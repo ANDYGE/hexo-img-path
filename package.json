@@ -1,0 +1,20 @@
+{
+  "name": "hexo-img-path",
+  "version": "1.0.0",
+  "description": "将hexo中的markdown图片的相对路径更改为绝对路径,使得在markdown预览和发布状态下都能看到图片",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ANDYGE/hexo-img-path.git"
+  },
+  "keywords": [
+    "hexo",
+    "image",
+    "path"
+  ],
+  "author": "geshaofei@126.com",
+  "license": "ISC"
+}
