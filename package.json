@@ -1,6 +1,6 @@
 {
   "name": "hexo-img-path",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "将hexo中的markdown图片的相对路径更改为绝对路径,使得在markdown预览和发布状态下都能看到图片",
   "main": "index.js",
   "scripts": {
